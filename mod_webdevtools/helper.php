@@ -1,10 +1,10 @@
 <?php
 /**
-* @package		JJ Module Generator
-* @author		JoomJunk
-* @copyright	Copyright (C) 2011 - 2012 JoomJunk. All Rights Reserved
-* @license		http://www.gnu.org/licenses/gpl-3.0.html
-*/
+* @package    WebDevTools
+* @author     Cecil O. Almonte
+* @copyright  Copyright (C) Cecilomar Design, Inc. 2013
+* @license    http://www.gnu.org/licenses/gpl.txt
+**/
 
 // no direct access
 defined( '_JEXEC' ) or die( 'Restricted access' );
